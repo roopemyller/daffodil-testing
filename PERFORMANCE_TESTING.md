@@ -1,3 +1,5 @@
+THIS CODE IS MAINLY DONE BY GITHUB COPILOT (claude sonnet 4.5) AND WAS USED TO TEST APACHE DAFFODIL FOR A COURSE PROJECT - NOT TO BE USED IN ANY REAL SCENARIO
+
 # Performance Testing Guide
 
 This guide explains how to test the performance of CSV parsing and unparsing with Apache Daffodil.
