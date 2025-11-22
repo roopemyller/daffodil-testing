@@ -1,3 +1,5 @@
+THIS CODE IS MAINLY DONE BY GITHUB COPILOT (claude sonnet 4.5) AND WAS USED TO TEST APACHE DAFFODIL FOR A COURSE PROJECT - NOT TO BE USED IN ANY REAL SCENARIO
+
 # CSV to JSON Parser with Apache Daffodil
 
 A simple Java project demonstrating how to parse CSV files and convert them to JSON format using Apache Daffodil's DFDL (Data Format Description Language) processor.
