@@ -1,0 +1,11 @@
+Name,Age,Department,Salary,Age,Experience,Location,FullTime
+Alice,30,Engineering,70000,30,5,New York,Yes
+Bob,45,Marketing,85000,45,20,Chicago,Yes
+Charlie,28,Sales,60000,28,3,San Francisco,No
+Diana,35,Engineering,95000,35,10,Boston,Yes
+Ethan,50,HR,80000,50,25,Seattle,Yes
+Fiona,29,Marketing,72000,29,4,Chicago,No
+George,40,Sales,88000,40,15,New York,Yes
+Hannah,32,HR,76000,32,7,Boston,Yes
+Ian,27,Engineering,68000,27,2,San Francisco,No
+Jane,38,Marketing,90000,38,12,Seattle,Yes
